@@ -1,0 +1,17 @@
+{
+  "name": "game-search-backend",
+  "version": "1.0.0",
+  "description": "This is the backend for a **Game Search Website** that allows users to search for games across multiple platforms like Skidrow Reloaded and FitGirl Repacks. The backend is built using **Python Flask** and provides an API for the frontend to fetch search results.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flask": "^0.2.10",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
